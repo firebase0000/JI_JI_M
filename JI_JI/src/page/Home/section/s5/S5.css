@@ -1,0 +1,54 @@
+.S5 {
+  width: 100vw;
+  height: 100vh;
+  background: antiquewhite;
+}
+.map {
+  width: 90vw;
+  height: 80vh;
+  border-radius: 20px;
+}
+.map_cont {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+.Where_are_we {
+  width: 500px;
+  height: 450px;
+  background: #ffffff;
+  position: absolute;
+  top: 330vh;
+  left: 700px;
+}
+.map_cont_title {
+  font-family: "Montserrat";
+  font-size: 32px;
+  font-weight: bold;
+  margin-left: 30px;
+}
+.map_cont_texte {
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: bold;
+  width: 410px;
+  margin-left: 30px;
+}
+
+.map_cont_texte2 {
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: bold;
+  width: 410px;
+  margin-left: 30px;
+}
+.map_cont_line {
+  width: 100px;
+  height: 5px;
+  background: red;
+  margin-top: 40px;
+  position: relative;
+  top: 10px;
+  left: 30px;
+}

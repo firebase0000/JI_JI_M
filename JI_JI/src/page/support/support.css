@@ -1,0 +1,18 @@
+.Support_text {
+  width: 700px;
+  font-size: 20px;
+  font-family: "Montserrat";
+  font-weight: 600;
+}
+.support_frame {
+  margin-top: 200px;
+  margin-left: 100px;
+}
+.Support_title {
+  font-size: 32px;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+.Support_desc {
+  width: 400px;
+}

@@ -1,0 +1,30 @@
+.Analysis {
+  border: antiquewhite solid;
+  background: antiquewhite;
+}
+.Analysis_title {
+  margin-top: 50px;
+  margin-left: 50px;
+  font-size: 32px;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+.Analysis_background {
+  width: 100vw;
+  height: 20vh;
+}
+.Analysis_search {
+  border: 5px solid;
+  width: 1000px;
+  height: 30px;
+  border-radius: 20px;
+  position: absolute;
+  top: 250px;
+  left: 200px;
+}
+.Analysis_card {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}

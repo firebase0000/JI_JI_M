@@ -1,0 +1,59 @@
+.s4 {
+  width: 100vw;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+}
+.Our_Information {
+  width: 1200px;
+  height: 600px;
+  background: #fff;
+  border-radius: 20px;
+  display: flex;
+}
+.Our_Information_fram {
+  width: 600px;
+  height: 600px;
+}
+.Our_Information_img1 {
+  width: 550px;
+  height: 600px;
+}
+.Our_Information_img2 {
+  position: relative;
+  top: -170px;
+  left: 320px;
+  width: 200px;
+  height: 200px;
+}
+.Our_Information_inf_icon {
+  margin-left: 80px;
+  width: 40px;
+  height: 40px;
+}
+.Our_Information_inf_text {
+  margin-left: 30px;
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: bold;
+}
+.Our_Information_inf_flex {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.Our_Information_line {
+  width: 100px;
+  height: 5px;
+  background: red;
+  position: relative;
+  top: 110px;
+  left: 80px;
+}
+.Our_Information_title {
+  margin-top: 120px;
+  margin-left: 80px;
+  font-family: "Montserrat";
+  font-size: 32px;
+  font-weight: bold;
+}

@@ -1,0 +1,20 @@
+.line_red_effect {
+  width: 100px;
+  height: 5px;
+  background: red;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+.title_red_effect {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 32px;
+  margin-left: 10%;
+}
+.text_red_effect {
+  margin-left: 10%;
+  width: 400px;
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 18px;
+}

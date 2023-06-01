@@ -1,0 +1,68 @@
+.Observer {
+  display: grid;
+  place-items: center;
+}
+.Observer_spacer {
+  width: 100vw;
+  height: 100px;
+  background: antiquewhite;
+}
+.Observer_hight {
+  width: 100vw;
+  height: 200vh;
+  background: antiquewhite;
+}
+.Observer_img {
+  z-index: 0;
+  position: absolute;
+  width: 90vw;
+}
+.Observer_space {
+  width: 90vw;
+  height: 150px;
+  background: aquamarine;
+  border-radius: 10px;
+  display: grid;
+  place-items: center;
+}
+.buttonIn {
+  width: 800px;
+  position: relative;
+}
+
+.Observerinput {
+  margin-top: 60px;
+  padding: 0px;
+  width: 100%;
+  outline: none;
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+}
+
+.Observerbutton {
+  margin-top: 60px;
+
+  font-size: 20px;
+  font-weight: 400;
+  width: 20%;
+  height: 30px;
+  position: absolute;
+  top: 0;
+  border: none;
+  border-radius: 10px;
+  right: 0px;
+  z-index: 0;
+  border: none;
+  top: 0px;
+  cursor: pointer;
+  color: white;
+  background-color: #e74040;
+  transform: translateX(2px);
+}
+.a_text {
+  margin-top: 200px;
+  width: 100vw;
+  display: grid;
+  place-items: center;
+}

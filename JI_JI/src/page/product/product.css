@@ -1,0 +1,56 @@
+.product_img_div {
+  margin-top: 100px;
+  width: 40vw;
+  height: 60vh;
+}
+.product {
+  width: 800vh;
+}
+.product_img {
+  width: 40vw;
+  height: 60vh;
+}
+.product_info_cont {
+  margin-left: 50px;
+  margin-top: 100px;
+  width: 55vw;
+  height: 60vh;
+}
+.product_flex {
+  display: flex;
+}
+.product_title {
+  margin-top: 60px;
+  font-size: 20px;
+  font-family: "Inter";
+  font-weight: 900;
+}
+.product_prix {
+  margin-right: 50px;
+  font-size: 18px;
+  font-family: "Inter";
+  font-weight: 600;
+}
+.product_min {
+  font-size: 18px;
+  font-family: "Inter";
+  font-weight: 600;
+}
+.product_desc {
+  width: 50vw;
+  font-size: 20px;
+  font-family: "Inter";
+  font-weight: 600;
+}
+.product_flex_flex {
+  display: flex;
+}
+.product_button {
+  width: 120px;
+  height: 30px;
+  border-radius: 5px;
+  border: none;
+  background: #00c1c8;
+  color: #fff;
+  margin-top: 30px;
+}

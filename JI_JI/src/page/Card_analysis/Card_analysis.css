@@ -1,0 +1,84 @@
+.card_item {
+  width: 250px;
+  height: 350px;
+  border: #000 solid;
+  border-radius: 20px;
+  background: #fff;
+}
+.card_item:hover {
+  width: 270px;
+  height: 370px;
+  transition: all 0.2s ease-out;
+  box-shadow: 15px 15px 15px rgba(38, 38, 38, 0.2);
+  top: -4px;
+  border: 3px solid #1ba0ab;
+}
+.card_item_flex {
+  width: 250px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.card_item_flex:hover {
+  width: 270px;
+  height: 320px;
+  transition: all 0.2s ease-out;
+  top: -4px;
+}
+.card_item_title_color {
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: bold;
+  color: #1ba0ab;
+}
+.card_item_title {
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: bold;
+  color: #000;
+}
+
+.card_item_text {
+  width: 200px;
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: 400;
+  color: #000;
+}
+.card_item_prix_flex1 {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+.card_item_prix_flex2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card_item_prix {
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: bold;
+  color: #f69b25;
+  margin-right: 40px;
+}
+.card_item_time {
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: bold;
+}
+.card_item_icon_time {
+  width: 30px;
+  height: 30px;
+}
+.card_item_button {
+  width: 120px;
+  height: 30px;
+  border: #1ba0ab solid;
+  background: #fff;
+  color: #1ba0ab;
+  border-radius: 10px;
+  margin-left: 10%;
+}

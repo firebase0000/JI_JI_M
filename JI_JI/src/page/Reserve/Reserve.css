@@ -1,0 +1,127 @@
+.Reserve {
+  background: antiquewhite;
+}
+.Reserve_frame {
+  width: 40vw;
+  height: 45vw;
+  margin-left: 80px;
+  margin-top: 50px;
+}
+::placeholder {
+  color: #fff;
+  opacity: 1;
+}
+.Reserve_frame2 {
+  width: 40vw;
+  height: 45vw;
+  margin-left: 80px;
+  margin-top: 50px;
+  background: #1ba0ab;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.Reserve_input_title {
+  font-size: 24px;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+.Reserve_input_button {
+  border-radius: 10px;
+  border: 1px solid #1ba0ab;
+  background: #fff;
+  color: #1ba0ab;
+  width: 420px;
+  height: 40px;
+}
+
+.Reserve_input {
+  width: 420px;
+  height: 30px;
+  border: none;
+  border-bottom: 5px solid #fff;
+  background-color: #1ba0ab;
+}
+
+.Reserve_title {
+  font-size: 24px;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+.Reserve_input_title {
+  color: #fff;
+  font-size: 24px;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+.Reserve_line {
+  width: 350px;
+  height: 6px;
+  background: #000;
+  border-radius: 20px;
+}
+.Reserve_scroll {
+  overflow: scroll;
+  width: 100%;
+  height: 70%;
+}
+.Reserve_card {
+  height: 70px;
+  border: 3px solid;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 30px;
+}
+.Reserve_icon {
+  width: 50px;
+  height: 50px;
+}
+.Reserve_flex {
+  display: flex;
+}
+.Reserve_card_text {
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: bold;
+}
+.container {
+  width: 30vw;
+  height: 35vw;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.Reserve_button {
+  width: 420px;
+  height: 40px;
+  color: #fff;
+  border: solid;
+  border-radius: 10px;
+  background: #1ba0ab;
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: 800;
+}
+.Support_text {
+  width: 600px;
+  font-size: 20px;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+.support_title2 {
+  width: 800px;
+  font-size: 24px;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+.support_frame {
+  margin-top: 200px;
+  margin-left: 100px;
+}

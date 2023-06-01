@@ -1,0 +1,148 @@
+.Admin {
+  background: antiquewhite;
+  display: flex;
+}
+.Admin_ultra {
+  background: antiquewhite;
+}
+.admin_fram1 {
+  margin-top: 50px;
+  width: 50vw;
+  height: 75vh;
+  display: grid;
+  place-items: center;
+}
+.admin_fram2 {
+  margin-top: 140px;
+  width: 50vw;
+  height: 30vh;
+}
+.admin_fram1_flex {
+  width: 40vw;
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.admin_fram1_flex2 {
+  width: 40vw;
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.admin_fram1_input {
+  width: 40vw;
+  height: 30px;
+  border: 3px solid;
+  border-radius: 10px;
+}
+.admin_fram1_input2 {
+  width: 40vw;
+  border: 3px solid;
+  border-radius: 10px;
+}
+
+.admin_fram1_button {
+  font-size: 24px;
+  font-family: "Montserrat";
+  font-weight: bold;
+  width: 40vw;
+  height: 50px;
+  border: 3px solid;
+  border-radius: 10px;
+  background: #fff;
+}
+.add_resolet_clint_button_test {
+  width: 150px;
+  height: 30px;
+  background: #fff;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+.add_resolet_clint_button_test:hover {
+  color: #fff;
+  background: #1ba0ab;
+}
+
+.add_resolet {
+  border: solid;
+  width: 150vh;
+  height: 40vh;
+  border-radius: 10px;
+  overflow: auto;
+  display: grid;
+  place-items: center;
+  background: #fff;
+}
+#scrollbar1::-webkit-scrollbar {
+  width: 10px;
+}
+
+#scrollbar1::-webkit-scrollbar-track {
+  border-radius: 8px;
+  background-color: #e7e7e7;
+  border: 1px solid #cacaca;
+}
+.add_resolet_clint_img::file-selector-button {
+  border-radius: 4px;
+  padding: 0 16px;
+  height: 30px;
+  cursor: pointer;
+  background-color: white;
+  color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.16);
+  box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05);
+  margin-right: 16px;
+  transition: background-color 200ms;
+  width: 10px;
+}
+.add_resolet_clint_section {
+  display: grid;
+  place-items: center;
+}
+
+.add_resolet_clint_bar {
+  width: 130vh;
+  height: 40px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.add_resolet_clint {
+  margin-top: 20px;
+  margin-left: 20px;
+  border: 5px solid;
+  width: 120vh;
+  height: 40px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.add_resolet_clint_text {
+  font-size: 14px;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+.add_resolet_clint_button {
+  font-size: 18px;
+  font-family: "Montserrat";
+  font-weight: bold;
+  width: 120px;
+  height: 40px;
+  border: none;
+  background: #000;
+  color: #fff;
+}
+.add_resolet_clint_button:hover {
+  color: #000;
+  background: #fff;
+  border: 5px solid;
+  width: 150px;
+}
+/* onClick={() => handleEdit(client.id)} */
